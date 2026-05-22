@@ -21,10 +21,12 @@ jobs:
           github-username: rahhhmann
           output-file: activity-graph.svg
 
-      - name: Deploy to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: .
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add activity-graph.svg
+          git commit -m "update activity-graph" || exit 0
+          git push origin HEAD:activity-graph-output 2>/dev/null || git push -u origin HEAD:activity-graph-output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
