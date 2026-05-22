@@ -16,11 +16,8 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate Activity Graph
-        uses: Ashutosh00710/github-readme-activity-graph@main
-        with:
-          github-username: rahhhmann
-          theme: github-dark
-          output-file: activity-graph.svg
+        run: |
+          curl -o activity-graph.svg "https://github-readme-activity-graph.vercel.app/graph?username=rahhhmann&theme=github-dark&bg_color=000000&color=FFFFFF&line=6E40C9&point=FFFFFF&area=true&hide_border=false"
 
       - name: Commit and push if changed
         run: |
