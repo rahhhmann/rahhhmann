@@ -75,7 +75,11 @@ Final-year CSE student at Patuakhali Science and Technology University, working 
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logo=python&logoColor=white)
 ![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**LLMOps, Evaluation & Observability**
+
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=python&logoColor=white)
+![RAGAS](https://img.shields.io/badge/RAGAS-22C55E?style=flat-square&logo=python&logoColor=white)
 
 **Vector Stores & RAG**
 
@@ -84,7 +88,6 @@ Final-year CSE student at Patuakhali Science and Technology University, working 
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-AA0000?style=flat-square&logo=python&logoColor=white)
 ![BM25](https://img.shields.io/badge/BM25-888780?style=flat-square&logo=python&logoColor=white)
-![RAGAS](https://img.shields.io/badge/RAGAS-22C55E?style=flat-square&logo=python&logoColor=white)
 
 **Document Processing**
 
