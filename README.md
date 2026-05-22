@@ -6,23 +6,31 @@
 
 <br>
 
-###
-
-<br clear="both">
-
-<img align="right" height="120" src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif" />
+<table>
+<tr>
+<td width="72%" valign="top">
 
 ## About Me
 
 Final-year CSE student at Patuakhali Science and Technology University, working at the intersection of applied machine learning and LLM systems engineering.
 
-**Current focus:**
+### Current Focus
 
 - Explainable Machine Learning & spatio-temporal forecasting
 - Large Language Models (LLMs) and RAG system design
 - Multi-agent AI orchestration (LangGraph, CrewAI, Google ADK)
 - Bangla NLP & low-resource language technologies
 - Leakage-aware ML pipelines and retrieval evaluation (RAGAS)
+
+</td>
+
+<td width="28%" align="center">
+
+<img src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif" height="150"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
