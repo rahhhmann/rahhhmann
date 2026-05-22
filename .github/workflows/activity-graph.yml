@@ -14,17 +14,18 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Generate Activity Graph
+      - name: Download Activity Graph
         run: |
-          curl -o activity-graph.svg "https://github-readme-activity-graph.vercel.app/graph?username=rahhhmann&theme=github-dark&bg_color=000000&color=FFFFFF&line=6E40C9&point=FFFFFF&area=true&hide_border=false"
+          mkdir -p output
+          curl -L -o output/activity-graph.svg "https://github-readme-activity-graph.vercel.app/graph?username=rahhhmann&theme=github-dark&bg_color=000000&color=FFFFFF&line=6E40C9&point=FFFFFF&area=true&hide_border=false"
 
-      - name: Commit and push if changed
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add activity-graph.svg
-          git commit -m "update activity-graph" || exit 0
-          git push origin HEAD:activity-graph-output 2>/dev/null || git push -u origin HEAD:activity-graph-output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          publish_branch: activity-graph-output
+          cname: ""
