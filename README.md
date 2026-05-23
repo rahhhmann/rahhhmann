@@ -65,12 +65,14 @@ Final-year CSE student at Patuakhali Science and Technology University, working 
 ![TigerLLM-7B](https://img.shields.io/badge/TigerLLM--7B-FF6B35?style=flat-square&logo=huggingface&logoColor=white)
 ![Unsloth QLoRA](https://img.shields.io/badge/Unsloth_QLoRA-6E40C9?style=flat-square&logo=python&logoColor=white)
 
-**LLM Frameworks & Agentic AI**
+**LLM Frameworks, Agentic AI & Protocols**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-2D9CDB?style=flat-square&logo=python&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logo=python&logoColor=white)
 ![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat-square&logo=google&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6E40C9?style=flat-square&logo=protocols&logoColor=white)
+![A2A](https://img.shields.io/badge/A2A-Agent2Agent-FF6B35?style=flat-square&logo=googlemessages&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 **LLMOps, Evaluation & Observability**
