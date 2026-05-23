@@ -65,7 +65,7 @@ Final-year CSE student at Patuakhali Science and Technology University, working 
 ![TigerLLM-7B](https://img.shields.io/badge/TigerLLM--7B-FF6B35?style=flat-square&logo=huggingface&logoColor=white)
 ![Unsloth QLoRA](https://img.shields.io/badge/Unsloth_QLoRA-6E40C9?style=flat-square&logo=python&logoColor=white)
 
-**LLM Frameworks & Agentic AI **
+**LLM Frameworks & Agentic AI**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-2D9CDB?style=flat-square&logo=python&logoColor=white)
