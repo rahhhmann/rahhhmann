@@ -35,70 +35,62 @@ Final-year CSE student at Patuakhali Science and Technology University, working 
 
 ## Tech Stack
 
-**Language**
-
+### Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Data & Scientific Computing**
-
+### AI/ML & NLP
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=python&logoColor=white)
-![GeoPy](https://img.shields.io/badge/GeoPy-4CAF50?style=flat-square&logo=python&logoColor=white)
-![xarray](https://img.shields.io/badge/xarray-1C7D9E?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-
-**ML & XAI**
-
 ![LightGBM](https://img.shields.io/badge/LightGBM-2ECC71?style=flat-square&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logo=python&logoColor=black)
 ![Random Forest](https://img.shields.io/badge/Random_Forest-27AE60?style=flat-square&logo=python&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-E74C3C?style=flat-square&logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**Fine-tuning & Models**
-
 ![BanglaBERT](https://img.shields.io/badge/BanglaBERT-3DDC84?style=flat-square&logo=huggingface&logoColor=black)
 ![TigerLLM-7B](https://img.shields.io/badge/TigerLLM--7B-FF6B35?style=flat-square&logo=huggingface&logoColor=white)
 ![Unsloth QLoRA](https://img.shields.io/badge/Unsloth_QLoRA-6E40C9?style=flat-square&logo=python&logoColor=white)
 
-**LLM Frameworks & Agentic AI**
-
+### LLM Engineering & Agentic Systems
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-2D9CDB?style=flat-square&logo=python&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logo=python&logoColor=white)
 ![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat-square&logo=google&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**AI Protocols & Interoperability**
-
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6E40C9?style=flat-square&logo=protocols&logoColor=white)
 ![A2A](https://img.shields.io/badge/A2A-Agent2Agent-FF6B35?style=flat-square&logo=googlemessages&logoColor=white)
-
-**LLMOps, Evaluation & Observability**
-
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=python&logoColor=white)
 ![RAGAS](https://img.shields.io/badge/RAGAS-22C55E?style=flat-square&logo=python&logoColor=white)
 
-**Vector Stores & RAG**
-
+### RAG, Vector DBs & Document Processing
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=python&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=flat-square&logo=meta&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-AA0000?style=flat-square&logo=python&logoColor=white)
 ![BM25](https://img.shields.io/badge/BM25-888780?style=flat-square&logo=python&logoColor=white)
-
-**Document Processing**
-
 ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-3DDC84?style=flat-square&logo=python&logoColor=white)
 ![pdfplumber](https://img.shields.io/badge/pdfplumber-4B8BBE?style=flat-square&logo=python&logoColor=white)
 ![pypdf2](https://img.shields.io/badge/pypdf2-EC1C24?style=flat-square&logo=python&logoColor=white)
 
-**LLM Providers**
+### Backend, APIs & Automation
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+### Data Engineering & Visualization
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=python&logoColor=white)
+![GeoPy](https://img.shields.io/badge/GeoPy-4CAF50?style=flat-square&logo=python&logoColor=white)
+![xarray](https://img.shields.io/badge/xarray-1C7D9E?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+### LLM Providers
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
@@ -106,36 +98,20 @@ Final-year CSE student at Patuakhali Science and Technology University, working 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6E40C9?style=flat-square&logo=python&logoColor=white)
 
-**Databases**
-
+### Databases & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**BI & Visualization**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square&logo=python&logoColor=white)
-
-**Deployment & Cloud**
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
-**Dev Tools**
-
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
----
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/rahhhmann/rahhhmann/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph" />
