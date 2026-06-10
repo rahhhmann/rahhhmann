@@ -112,6 +112,7 @@ Final-year CSE student at Patuakhali Science and Technology University, working 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/rahhhmann/rahhhmann/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph" />
