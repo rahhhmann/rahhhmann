@@ -40,17 +40,21 @@ Final-year CSE student at Patuakhali Science and Technology University, working 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ### AI/ML & NLP
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-2ECC71?style=flat-square&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logo=python&logoColor=black)
-![Random Forest](https://img.shields.io/badge/Random_Forest-27AE60?style=flat-square&logo=python&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-E74C3C?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![mBERT](https://img.shields.io/badge/mBERT-Multilingual_BERT-4285F4?style=flat-square&logo=google&logoColor=white)
 ![BanglaBERT](https://img.shields.io/badge/BanglaBERT-3DDC84?style=flat-square&logo=huggingface&logoColor=black)
-![TigerLLM-7B](https://img.shields.io/badge/TigerLLM--7B-FF6B35?style=flat-square&logo=huggingface&logoColor=white)
-![Unsloth QLoRA](https://img.shields.io/badge/Unsloth_QLoRA-6E40C9?style=flat-square&logo=python&logoColor=white)
+![TigerLLM--9B](https://img.shields.io/badge/TigerLLM--9B-FF6B35?style=flat-square&logo=huggingface&logoColor=white)
+![Qwen2.5--7B](https://img.shields.io/badge/Qwen2.5--7B-615EFF?style=flat-square&logo=alibabacloud&logoColor=white)
+![Qwen2.5--3B](https://img.shields.io/badge/Qwen2.5--3B-615EFF?style=flat-square&logo=alibabacloud&logoColor=white)
+![Gemma--3--4B](https://img.shields.io/badge/Gemma--3--4B-4285F4?style=flat-square&logo=google&logoColor=white)
+![PEFT](https://img.shields.io/badge/PEFT_LoRA-8A2BE2?style=flat-square&logo=huggingface&logoColor=white)
+![Unsloth_QLoRA](https://img.shields.io/badge/Unsloth_QLoRA-6E40C9?style=flat-square&logo=python&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
 ### LLM Engineering & Agentic Systems
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
