@@ -48,7 +48,6 @@ Final-year CSE student at Patuakhali Science and Technology University, working 
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logo=python&logoColor=black)
 ![Random Forest](https://img.shields.io/badge/Random_Forest-27AE60?style=flat-square&logo=python&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-E74C3C?style=flat-square&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![BanglaBERT](https://img.shields.io/badge/BanglaBERT-3DDC84?style=flat-square&logo=huggingface&logoColor=black)
 ![TigerLLM-7B](https://img.shields.io/badge/TigerLLM--7B-FF6B35?style=flat-square&logo=huggingface&logoColor=white)
 ![Unsloth QLoRA](https://img.shields.io/badge/Unsloth_QLoRA-6E40C9?style=flat-square&logo=python&logoColor=white)
