@@ -41,6 +41,7 @@ Final-year CSE student at Patuakhali Science and Technology University, working 
 
 ### AI/ML & NLP
 
+![AI/ML & NLP](https://img.shields.io/badge/AI/ML%20%26%20NLP-Professional-007ACC?style=for-the-badge&logo=ai&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -52,9 +53,11 @@ Final-year CSE student at Patuakhali Science and Technology University, working 
 ![Qwen2.5--7B](https://img.shields.io/badge/Qwen2.5--7B-615EFF?style=flat-square&logo=alibabacloud&logoColor=white)
 ![Qwen2.5--3B](https://img.shields.io/badge/Qwen2.5--3B-615EFF?style=flat-square&logo=alibabacloud&logoColor=white)
 ![Gemma--3--4B](https://img.shields.io/badge/Gemma--3--4B-4285F4?style=flat-square&logo=google&logoColor=white)
+![NLLB-600M](https://img.shields.io/badge/NLLB--600M-Meta_AI-0668E1?style=flat-square&logo=meta&logoColor=white)
 ![PEFT](https://img.shields.io/badge/PEFT_LoRA-8A2BE2?style=flat-square&logo=huggingface&logoColor=white)
 ![Unsloth_QLoRA](https://img.shields.io/badge/Unsloth_QLoRA-6E40C9?style=flat-square&logo=python&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+
 
 ### LLM Engineering & Agentic Systems
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
