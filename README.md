@@ -41,11 +41,10 @@ Final-year CSE student at Patuakhali Science and Technology University, working 
 
 ### AI/ML & NLP
 
-![AI/ML & NLP](https://img.shields.io/badge/AI/ML%20%26%20NLP-Professional-007ACC?style=for-the-badge&logo=ai&logoColor=white)
+![AI/ML & NLP](https://img.shields.io/badge/AI/ML%20%26%20NLP-007ACC?style=for-the-badge&logo=ai&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![mBERT](https://img.shields.io/badge/mBERT-Multilingual_BERT-4285F4?style=flat-square&logo=google&logoColor=white)
 ![BanglaBERT](https://img.shields.io/badge/BanglaBERT-3DDC84?style=flat-square&logo=huggingface&logoColor=black)
