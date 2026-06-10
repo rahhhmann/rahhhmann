@@ -46,7 +46,7 @@ Final-year CSE student at Patuakhali Science and Technology University, working 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![mBERT](https://img.shields.io/badge/mBERT-Multilingual_BERT-4285F4?style=flat-square&logo=google&logoColor=white)
+![mBERT](https://img.shields.io/badge/mBERT-4285F4?style=flat-square&logo=google&logoColor=white)
 ![BanglaBERT](https://img.shields.io/badge/BanglaBERT-3DDC84?style=flat-square&logo=huggingface&logoColor=black)
 ![TigerLLM--9B](https://img.shields.io/badge/TigerLLM--9B-FF6B35?style=flat-square&logo=huggingface&logoColor=white)
 ![Qwen2.5--7B](https://img.shields.io/badge/Qwen2.5--7B-615EFF?style=flat-square&logo=alibabacloud&logoColor=white)
