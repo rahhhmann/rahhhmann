@@ -41,7 +41,6 @@ Final-year CSE student at Patuakhali Science and Technology University, working 
 
 ### AI/ML & NLP
 
-![AI/ML & NLP](https://img.shields.io/badge/AI/ML%20%26%20NLP-007ACC?style=for-the-badge&logo=ai&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
