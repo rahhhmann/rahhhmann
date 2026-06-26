@@ -55,15 +55,20 @@ Final-year CSE student at Patuakhali Science and Technology University, working 
 ![PEFT](https://img.shields.io/badge/PEFT_LoRA-8A2BE2?style=flat-square&logo=huggingface&logoColor=white)
 ![Unsloth_QLoRA](https://img.shields.io/badge/Unsloth_QLoRA-6E40C9?style=flat-square&logo=python&logoColor=white)
 
+### Computer Vision
 
+![YOLOv8](https://img.shields.io/badge/YOLOv8m-purple?style=flat-square&logo=python&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-6E40C9?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white)
 
 ### LLM Engineering & Agentic Systems
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-2D9CDB?style=flat-square&logo=python&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logo=python&logoColor=white)
 ![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat-square&logo=google&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6E40C9?style=flat-square&logo=protocols&logoColor=white)
-![A2A](https://img.shields.io/badge/A2A-Agent2Agent-FF6B35?style=flat-square&logo=googlemessages&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-6E40C9?style=flat-square&logo=protocols&logoColor=white)
+![A2A](https://img.shields.io/badge/A2A-FF6B35?style=flat-square&logo=googlemessages&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=python&logoColor=white)
 ![RAGAS](https://img.shields.io/badge/RAGAS-22C55E?style=flat-square&logo=python&logoColor=white)
 
@@ -107,6 +112,7 @@ Final-year CSE student at Patuakhali Science and Technology University, working 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![HuggingFace Spaces](https://img.shields.io/badge/HuggingFace%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
