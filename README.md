@@ -12,15 +12,15 @@
 
 ## About Me
 
-Final-year CSE student at Patuakhali Science and Technology University, working at the intersection of applied machine learning and AI engineering.
+Recent CSE graduate (Patuakhali Science and Technology University), working at the intersection of applied machine learning and AI engineering.
 
 ### Current Focus
 
-- Explainable ML for spatio-temporal forecasting — leakage-aware pipelines, SHAP, ensemble models
-- Low-resource Bangla NLP — dialect translation & NER across Sylheti and Chittagonian variants
-- Parameter-efficient LLM fine-tuning — QLoRA (Unsloth) on consumer-grade hardware
-- RAG pipeline development — chunking strategies, vector retrieval, and end-to-end evaluation
-- Agentic AI orchestration — Langchain,LangGraph, CrewAI, Google ADK
+- Explainable ML for spatio-temporal forecasting — dengue outbreak forecasting across Bangladesh's 8 divisions (LightGBM, R²=0.900, SHAP, leakage-free pipeline, DGHS + ERA5 data)
+- Low-resource Bangla NLP — Sylheti/Chittagonian dialect MT & NER ( Gemma-3-4B QLoRA fine-tuning; BanglaBERT NER)
+- Computer Vision — YOLOv8m pipelines for Bangladesh: license plate detection + OCR, fabric defect detection (RMG industry), vehicle detection/tracking
+- Agentic RAG systems — LangGraph router + tool-calling + ragas eval (KrishokBot: Bengali agriculture advisory, RAG + weather/price tools + own-trained crop-disease YOLO)
+- Parameter-efficient LLM fine-tuning — QLoRA via Unsloth on Kaggle T4 GPUs
 </td>
 
 <td width="28%" align="center">
