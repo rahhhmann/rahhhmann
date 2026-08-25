@@ -47,11 +47,7 @@ Final-year CSE student at Patuakhali Science and Technology University, working 
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![mBERT](https://img.shields.io/badge/mBERT-4285F4?style=flat-square&logo=google&logoColor=white)
 ![BanglaBERT](https://img.shields.io/badge/BanglaBERT-3DDC84?style=flat-square&logo=huggingface&logoColor=black)
-![TigerLLM--9B](https://img.shields.io/badge/TigerLLM--9B-FF6B35?style=flat-square&logo=huggingface&logoColor=white)
-![Qwen2.5--7B](https://img.shields.io/badge/Qwen2.5--7B-615EFF?style=flat-square&logo=alibabacloud&logoColor=white)
-![Qwen2.5--3B](https://img.shields.io/badge/Qwen2.5--3B-615EFF?style=flat-square&logo=alibabacloud&logoColor=white)
 ![Gemma--3--4B](https://img.shields.io/badge/Gemma--3--4B-4285F4?style=flat-square&logo=google&logoColor=white)
-![NLLB-600M](https://img.shields.io/badge/NLLB---0467DF?style=flat-square&logo=meta&logoColor=white)
 ![PEFT](https://img.shields.io/badge/PEFT_LoRA-8A2BE2?style=flat-square&logo=huggingface&logoColor=white)
 ![Unsloth_QLoRA](https://img.shields.io/badge/Unsloth_QLoRA-6E40C9?style=flat-square&logo=python&logoColor=white)
 
